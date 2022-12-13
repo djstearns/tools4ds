@@ -1,0 +1,27 @@
+,activity,entity,place
+0,,Russia,Russia
+1,,Russia,Russia
+2,,Russia,Russia
+3,,Wagner Group,Russia
+4,,Wagner,Russia
+5,,Wagner,Russia
+6,,Group,Russia
+7,,Group,Russia
+8,,Group,Russia
+9,,Wagner Group,Russia
+10,,Wagner Group,Russia
+11,,Wagner Group,Russia
+12,,Wagner Group,Russia
+13,,Wagner Group,Russia
+14,,Wagner Group,Russia
+15,,Wagner Group,Russia
+16,,Mercenaries,Russia
+17,,Mercenaries,Russia
+18,,Mercenaries,Russia
+19,,Wagner Group,Russia
+20,,Opinion,Russia
+21,,Opinion,Russia
+22,,Opinion,Russia
+23,,Wagner Group,Russia
+24,,Newsweek,Russia
+25,,Newsweek,Russia

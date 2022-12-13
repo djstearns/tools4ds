@@ -1,0 +1,278 @@
+,0,1,2,3,4,5
+0,2022-12-13,02:17:12,links: https://www.thedailybeast.com/survivors-say-wagner-group-mercenaries-filmed-sex-assault-victims-in-mali-stripped-naked,1602487774195732481,EevaPirila,UNKWN
+1,2022-12-13,02:17:12,mentions: ItsObesh1,1602487774195732481,EevaPirila,UNKWN
+2,2022-12-13,02:17:12,mentions: colinishop,1602487774195732481,EevaPirila,UNKWN
+3,2022-12-13,02:17:12,mentions: mfa_russia,1602487774195732481,EevaPirila,UNKWN
+4,2022-12-13,02:17:12,mentions: russembkenya,1602487774195732481,EevaPirila,UNKWN
+5,2022-12-13,02:17:12,mentions: ForeignOfficeKE,1602487774195732481,EevaPirila,UNKWN
+6,2022-12-13,02:17:12,mentions: citizentvkenya,1602487774195732481,EevaPirila,UNKWN
+7,2022-12-13,02:17:12,mentions: _AfricanUnion,1602487774195732481,EevaPirila,UNKWN
+8,2022-12-13,02:17:12,mentions: AUC_PAPS,1602487774195732481,EevaPirila,UNKWN
+9,2022-12-13,02:17:12,mentions: africarenewal,1602487774195732481,EevaPirila,UNKWN
+10,2022-12-13,02:17:12,mentions: en_roscongress,1602487774195732481,EevaPirila,UNKWN
+11,2022-12-13,02:17:12,mentions: IAAS_MSU,1602487774195732481,EevaPirila,UNKWN
+12,2022-12-13,02:17:12,mentions: RussiaUN,1602487774195732481,EevaPirila,UNKWN
+13,2022-12-13,02:17:12,mentions: rusembtz,1602487774195732481,EevaPirila,UNKWN
+14,2011-11-10,10:22:31,"tweeted: @ItsObesh1 @colinishop @mfa_russia @russembkenya @ForeignOfficeKE @citizentvkenya @_AfricanUnion @AUC_PAPS @africarenewal @en_roscongress @IAAS_MSU @RussiaUN @rusembtz Interesting that you are stupid.
+https://t.co/6CYtj8oYH7",1602487774195732481,EevaPirila,UNKWN
+15,2022-12-13,02:14:35,links: https://www.rd.nl/artikel/1001765-oekraine-hoofdkwartier-van-wagner-groep-geraakt-doden-gevallen,1602487113970245632,ItsObesh1,Africa
+16,2022-12-13,02:14:35,mentions: googlenews,1602487113970245632,ItsObesh1,Africa
+17,2014-04-30,09:04:15,"tweeted: Oekraïne: Hoofdkwartier van Wagner-groep geraakt, doden gevallen - Reformatorisch Dagblad https://t.co/CiO52qrTlw via @GoogleNews Ukraine: Headquarters of Wagner group hit, killed",1602487113970245632,ItsObesh1,Africa
+18,2022-12-13,02:14:00,links: https://www.thedailybeast.com/survivors-say-wagner-group-mercenaries-filmed-sex-assault-victims-in-mali-stripped-naked,1602486966037409792,colinishop,UK
+19,2022-12-13,02:14:00,mentions: TheMwenyenchi,1602486966037409792,colinishop,UK
+20,2022-12-13,02:14:00,mentions: mfa_russia,1602486966037409792,colinishop,UK
+21,2022-12-13,02:14:00,mentions: russembkenya,1602486966037409792,colinishop,UK
+22,2022-12-13,02:14:00,mentions: ForeignOfficeKE,1602486966037409792,colinishop,UK
+23,2022-12-13,02:14:00,mentions: citizentvkenya,1602486966037409792,colinishop,UK
+24,2022-12-13,02:14:00,mentions: _AfricanUnion,1602486966037409792,colinishop,UK
+25,2022-12-13,02:14:00,mentions: AUC_PAPS,1602486966037409792,colinishop,UK
+26,2022-12-13,02:14:00,mentions: africarenewal,1602486966037409792,colinishop,UK
+27,2022-12-13,02:14:00,mentions: en_roscongress,1602486966037409792,colinishop,UK
+28,2022-12-13,02:14:00,mentions: IAAS_MSU,1602486966037409792,colinishop,UK
+29,2022-12-13,02:14:00,mentions: RussiaUN,1602486966037409792,colinishop,UK
+30,2022-12-13,02:14:00,mentions: rusembtz,1602486966037409792,colinishop,UK
+31,2012-04-18,14:41:56,"tweeted: @TheMwenyenchi @mfa_russia @russembkenya @ForeignOfficeKE @citizentvkenya @_AfricanUnion @AUC_PAPS @africarenewal @en_roscongress @IAAS_MSU @RussiaUN @rusembtz Good luck idiots.
+https://t.co/6CYtj8pwwF",1602486966037409792,colinishop,UK
+32,2022-12-13,02:11:35,mentions: wagatwe,1602486361315069952,mfa_russia,Russia
+33,2022-12-13,02:11:35,annotations: Wagner,1602486361315069952,mfa_russia,Russia
+34,2022-12-13,02:11:35,annotations: Ru,1602486361315069952,mfa_russia,Russia
+35,2011-02-21,12:45:22,tweeted: @wagatwe That feels like it's still missing bases. Pretty sure Wagner group is operating in mali on behalf of Ru.,1602486361315069952,mfa_russia,Russia
+36,2022-12-13,02:06:24,links: https://youtu.be/QsrqH-4ZIAg,1602485053723910146,russembkenya,"Найроби, Кения"
+37,2022-12-13,02:06:24,mentions: YouTube,1602485053723910146,russembkenya,"Найроби, Кения"
+38,2022-12-13,02:06:24,annotations: Wagner Group,1602485053723910146,russembkenya,"Найроби, Кения"
+39,2022-12-13,02:06:24,annotations: Ukraine,1602485053723910146,russembkenya,"Найроби, Кения"
+40,2013-02-13,08:48:03,tweeted: See aftermath of explosion at Wagner Group's purported base in Ukraine https://t.co/ChX7bO2HJV via @YouTube,1602485053723910146,russembkenya,"Найроби, Кения"
+41,2022-12-13,02:02:28,links: https://twitter.com/bonitedja/status/1601292970535231488/video/1,1602484067139731457,ForeignOfficeKE,Nairobi-Kenya
+42,2022-12-13,02:02:28,annotations: Joshua John Douglas Middleton,1602484067139731457,ForeignOfficeKE,Nairobi-Kenya
+43,2022-12-13,02:02:28,annotations: Antony Wagner,1602484067139731457,ForeignOfficeKE,Nairobi-Kenya
+44,2013-05-21,21:39:47,"tweeted: Joshua John Douglas Middleton #开云体育 Antony Wagner #世界杯下注 https://t.co/lJcsjH8PYD
+Why care though reason religious group gas since.",1602484067139731457,ForeignOfficeKE,Nairobi-Kenya
+45,2022-12-13,02:00:33,links: https://www.express.co.uk/comment/expresscomment/1708603/russia-ukraine-war-latest-news-putin-losing-war-wagner-group-russia-death-toll-zelensky,1602483581833592832,citizentvkenya,"Nairobi, Kenya"
+46,2022-12-13,02:00:33,annotations: Putin,1602483581833592832,citizentvkenya,"Nairobi, Kenya"
+47,2009-08-31,13:42:16,tweeted: 'Putin doesn't want peace he wants time to re-arm' https://t.co/UgoGreD5AU,1602483581833592832,citizentvkenya,"Nairobi, Kenya"
+48,2022-12-13,01:56:40,links: https://www.msn.com/en-xl/news/other/ukraine-claims-to-have-attacked-wagner-group-headquarters-in-lugansk-region/ar-AA15avjm?ocid=msedgdhp&pc=U531&cvid=5dd1aa4f49644f44bf48f5fbffbd5c3c,1602482605232107520,_AfricanUnion,"Addis Ababa, Ethiopia"
+49,2010-05-20,06:48:25,tweeted: Ukraine claims to have attacked Wagner Group headquarters in Lugansk region https://t.co/IhIkxQmWrJ,1602482605232107520,_AfricanUnion,"Addis Ababa, Ethiopia"
+50,2022-12-13,01:54:13,mentions: ayecandy4u,1602481987289227265,AUC_PAPS,African Union Headquarters
+51,2022-12-13,01:54:13,mentions: Blue_Sauron,1602481987289227265,AUC_PAPS,African Union Headquarters
+52,2022-12-13,01:54:13,annotations: Wagner,1602481987289227265,AUC_PAPS,African Union Headquarters
+53,2010-04-29,10:42:19,tweeted: @ayecandy4u @Blue_Sauron it was carrying total of 18 senior officials that were part of the upper management of the Wagner group in the area. It said that only 1 survived so yeah. The way the pilot kept flying he def roasted the 16 in the back to a crisp well done before landing for some reason.,1602481987289227265,AUC_PAPS,African Union Headquarters
+54,2022-12-13,01:51:54,links: https://youtu.be/WFpUw0ug29k,1602481404104826881,africarenewal,New York
+55,2022-12-13,01:51:54,mentions: YouTube,1602481404104826881,africarenewal,New York
+56,2022-12-13,01:51:54,annotations: BAKHMUT,1602481404104826881,africarenewal,New York
+57,2022-12-13,01:51:54,annotations: Wagner Group,1602481404104826881,africarenewal,New York
+58,2022-12-13,01:51:54,annotations: Ukraine,1602481404104826881,africarenewal,New York
+59,2009-06-18,20:23:09,tweeted: INTENSE FOOTAGE coming out of BAKHMUT. Wagner Group forcing Ukraine out? https://t.co/X1EP3CJ0nz via @YouTube,1602481404104826881,africarenewal,New York
+0,2022-12-13,01:50:25,links: https://www.wionews.com/world/ukraine-hits-hotel-housing-wagner-military-group-ukrainian-regional-official-says-542138,1602481033072427008,Misheru1,UNKWN
+1,2015-02-24,17:03:11,"tweeted: Ukraine hits hotel housing Wagner military group, Ukrainian regional official claims https://t.co/NeSm6cGALH",1602481033072427008,Misheru1,UNKWN
+2,2022-12-13,01:49:20,mentions: CryptoSavij,1602480760304304129,razorgrrl,"Aurora, IL"
+3,2022-12-13,01:49:20,mentions: DefenceU,1602480760304304129,razorgrrl,"Aurora, IL"
+4,2022-12-13,01:49:20,mentions: ZelenskyyUa,1602480760304304129,razorgrrl,"Aurora, IL"
+5,2022-12-13,01:49:20,annotations: Azov battalion,1602480760304304129,razorgrrl,"Aurora, IL"
+6,2022-12-13,01:49:20,annotations: Russia,1602480760304304129,razorgrrl,"Aurora, IL"
+7,2022-12-13,01:49:20,annotations: Russia,1602480760304304129,razorgrrl,"Aurora, IL"
+8,2022-12-13,01:49:20,annotations: Ukraine,1602480760304304129,razorgrrl,"Aurora, IL"
+9,2022-12-13,01:49:20,links: https://foreignpolicy.com/2021/07/06/what-is-wagner-group-russia-mercenaries-military-contractor/,1602480760304304129,razorgrrl,"Aurora, IL"
+10,2009-02-25,19:44:14,"tweeted: @CryptoSavij @DefenceU @ZelenskyyUa Yeah, nice try finding equivalence of the Azov battalion in Russia. BTW, my tax $$ aren't supporting Russia. They are going to Nazis and corrupt politicians in Ukraine.  https://t.co/ZesK4u8IoR",1602480760304304129,razorgrrl,"Aurora, IL"
+11,2022-12-13,01:44:36,mentions: AJEnglish,1602479567528026112,CryptoSavij,UNKWN
+12,2021-09-02,21:58:21,tweeted: @AJEnglish Wagner group like all the orcs are monsters from hell that should go back to hell and leave our planet alone,1602479567528026112,CryptoSavij,UNKWN
+13,2022-12-13,01:37:28,mentions: ThisIsKyleR,1602477772546330624,DefenceU,Україна
+14,2022-12-13,01:37:28,annotations: Wagner,1602477772546330624,DefenceU,Україна
+15,2012-07-09,08:39:09,tweeted: @ThisIsKyleR The Wagner group will accept your enlistment.,1602477772546330624,DefenceU,Україна
+16,2022-12-13,01:36:55,annotations: Ukraine,1602477633971060736,ZelenskyyUa,Україна
+17,2022-12-13,01:36:55,annotations: Wagner,1602477633971060736,ZelenskyyUa,Україна
+18,2022-12-13,01:36:55,annotations: Wion News,1602477633971060736,ZelenskyyUa,Україна
+19,2022-12-13,01:36:55,annotations: WION,1602477633971060736,ZelenskyyUa,Україна
+20,2022-12-13,01:36:55,links: https://www.wionews.com/world/ukraine-hits-hotel-housing-wagner-military-group-ukrainian-regional-official-says-542138,1602477633971060736,ZelenskyyUa,Україна
+21,2022-12-13,01:36:55,links: http://onelink.to/jksrch,1602477633971060736,ZelenskyyUa,Україна
+22,2019-04-23,10:21:15,"tweeted: #Ukraine hits hotel housing #Wagner military group, Ukrainian regional official claims
+
+https://t.co/PLFOg7bPOl
+
+Download the Wion News App now:
+https://t.co/doyGj48QIn
+
+-Shared via WION",1602477633971060736,ZelenskyyUa,Україна
+23,2022-12-13,01:35:43,annotations: Ukraine,1602477331699965952,mishwish,UNKWN
+24,2022-12-13,01:35:43,annotations: Wagner,1602477331699965952,mishwish,UNKWN
+25,2022-12-13,01:35:43,annotations: StandWithUkraine,1602477331699965952,mishwish,UNKWN
+26,2022-12-13,01:35:43,links: https://www.youtube.com/watch?v=8as3denU1CA,1602477331699965952,mishwish,UNKWN
+27,2008-02-12,02:28:30,"tweeted: Ukraine claims strike on Wagner group HQ, says 'huge number' of Russian mercenaries killed - FRANCE 24 English
+#StandWithUkraine 🇺🇦
+ https://t.co/RStZZbxgyn",1602477331699965952,mishwish,UNKWN
+28,2022-12-13,01:35:09,links: https://www.19fortyfive.com/2022/12/putin-wont-like-this-ukraine-is-trying-to-kill-the-wagner-group/,1602477190108835840,AJEnglish,"Doha, Qatar"
+29,2007-04-17,08:23:08,tweeted: Putin Won’t Like This: Ukraine Is Trying to Kill the Wagner Group - https://t.co/8NaE4cB5fm,1602477190108835840,AJEnglish,"Doha, Qatar"
+30,2022-12-13,01:30:04,mentions: New_Arrival_22,1602475910250258433,GregnZ00,"Auckland Central, Auckland"
+31,2022-12-13,01:30:04,mentions: spursonfifa,1602475910250258433,GregnZ00,"Auckland Central, Auckland"
+32,2022-12-13,01:30:04,mentions: LozzaFox,1602475910250258433,GregnZ00,"Auckland Central, Auckland"
+33,2022-12-13,01:30:04,annotations: Dmitry Utkin,1602475910250258433,GregnZ00,"Auckland Central, Auckland"
+34,2022-12-13,01:30:04,annotations: Russian Army,1602475910250258433,GregnZ00,"Auckland Central, Auckland"
+35,2022-12-13,01:30:04,annotations: GRU,1602475910250258433,GregnZ00,"Auckland Central, Auckland"
+36,2022-12-13,01:30:04,annotations: Putin,1602475910250258433,GregnZ00,"Auckland Central, Auckland"
+37,2022-12-13,01:30:04,annotations: Wagner Group,1602475910250258433,GregnZ00,"Auckland Central, Auckland"
+38,2022-12-13,01:30:04,links: https://twitter.com/OpDracula/status/1602475910250258433/photo/1,1602475910250258433,GregnZ00,"Auckland Central, Auckland"
+39,2018-02-24,02:20:21,"tweeted: @New_Arrival_22 @spursonfifa @LozzaFox So are you saying that this picture of Dmitry Utkin, a high-ranking Russian Army &amp; GRU officer, friend of Putin and one of the founders of the Wagner Group, is fake?
+
+Those are SS runes and an eagle &amp; swastika emblem, by the way. https://t.co/s3PGYFkagJ",1602475910250258433,GregnZ00,"Auckland Central, Auckland"
+40,2022-12-13,01:24:32,mentions: PrateekRoutray,1602474519956185090,ThisIsKyleR,USA
+41,2022-12-13,01:24:32,annotations: Wagner Group,1602474519956185090,ThisIsKyleR,USA
+42,2021-12-06,19:00:41,"tweeted: @PrateekRoutray Let's call the Wagner Group what they are, namely convicted murderers, rapists, and the odd cannibal, i.e. the scum of the earth.",1602474519956185090,ThisIsKyleR,USA
+43,2022-12-13,01:20:16,mentions: kamrtate,1602473446587346944,gladeolie,cyberspace
+44,2022-12-13,01:20:16,mentions: Patrida1941,1602473446587346944,gladeolie,cyberspace
+45,2022-12-13,01:20:16,mentions: TheRealLeviD,1602473446587346944,gladeolie,cyberspace
+46,2022-12-13,01:20:16,mentions: KeithOlbermann,1602473446587346944,gladeolie,cyberspace
+47,2022-12-13,01:20:16,mentions: elonmusk,1602473446587346944,gladeolie,cyberspace
+48,2022-12-13,01:20:16,mentions: micsolana,1602473446587346944,gladeolie,cyberspace
+49,2009-07-07,11:18:59,tweeted: @kamrtate @Patrida1941 @TheRealLeviD @KeithOlbermann @elonmusk @micsolana Are you this pathetic? Still pushing 5 year old paid commentaries towing the line that Russia is fighting Nazis in a country with a popular Jewish president? And they’re doing it with Wagner Group mercenaries (named after Hitler’s favorite composer)? 🤥,1602473446587346944,gladeolie,cyberspace
+0,2022-12-13,01:15:35,links: https://www.cnn.com/videos/world/2022/12/11/wagner-group-explosion-luhansk-melitopol-ukraine-russia-hodges-acostanr-vpx.cnn,1602472266784186368,deesbarbara,Crestview Florida...gulf coast
+1,2009-09-25,15:56:58,tweeted: https://t.co/HdK21jepD0,1602472266784186368,deesbarbara,Crestview Florida...gulf coast
+2,2022-12-13,01:15:27,annotations: Ukraine,1602472234047651842,gettrwenwu222,喜马拉雅大使馆联盟群
+3,2022-12-13,01:15:27,annotations: Russia,1602472234047651842,gettrwenwu222,喜马拉雅大使馆联盟群
+4,2022-12-13,01:15:27,annotations: Wagner,1602472234047651842,gettrwenwu222,喜马拉雅大使馆联盟群
+5,2022-12-13,01:15:27,annotations: Wagner,1602472234047651842,gettrwenwu222,喜马拉雅大使馆联盟群
+6,2022-12-13,01:15:27,links: https://www.wionews.com/world/ukraine-hits-hotel-housing-wagner-military-group-ukrainian-regional-official-says-542138?mibextid=Zxz2cZ#lblj25an7lzb47nnqr2,1602472234047651842,gettrwenwu222,喜马拉雅大使馆联盟群
+7,2022-03-08,23:56:11,"tweeted: A senior official in eastern Ukraine said in a television interview that Ukrainian forces struck a headquarters of Russia's Wagner mercenary group, leaving several of them dead. According to Western experts, Wagner are
+https://t.co/84NnbAA6iY",1602472234047651842,gettrwenwu222,喜马拉雅大使馆联盟群
+8,2022-12-13,01:14:17,links: https://www.youtube.com/watch?v=t1O6uG9Krzc,1602471937321861120,Ken00399154,Canada 
+9,2022-12-13,01:14:17,links: https://twitter.com/Ken00399154/status/1602471937321861120/photo/1,1602471937321861120,Ken00399154,Canada 
+10,2022-12-13,01:14:17,mentions: Nastya57132014,1602471937321861120,Ken00399154,Canada 
+11,2012-06-16,21:30:32,"tweeted: @Nastya57132014 The Wagner Group last nightwas given demonstration what HIMARS  when its ""O Clock"" time could really do when 300 Wagnerites  where KIA
+
+https://t.co/TAFt2OGlmr https://t.co/ZKtGKzcx6O",1602471937321861120,Ken00399154,Canada 
+12,2022-12-13,01:12:41,annotations: Putin,1602471536757194758,Nastya57132014,UNKWN
+13,2022-12-13,01:12:41,annotations: Ukraine,1602471536757194758,Nastya57132014,UNKWN
+14,2022-12-13,01:12:41,annotations: Wagner Group,1602471536757194758,Nastya57132014,UNKWN
+15,2022-12-13,01:12:41,links: https://www.19fortyfive.com/2022/12/putin-wont-like-this-ukraine-is-trying-to-kill-the-wagner-group/,1602471536757194758,Nastya57132014,UNKWN
+16,2018-05-21,01:20:58,tweeted: Putin Won’t Like This: Ukraine Is Trying to Kill the Wagner Group - https://t.co/bq4ASN1gQH,1602471536757194758,Nastya57132014,UNKWN
+17,2022-12-13,01:10:12,links: https://www.express.co.uk/comment/expresscomment/1708603/russia-ukraine-war-latest-news-putin-losing-war-wagner-group-russia-death-toll-zelensky,1602470913739755520,Neoavatara,United States
+18,2009-02-12,23:04:34,tweeted: 'Putin doesn't want peace he wants time to re-arm' https://t.co/UgoGreDDqs,1602470913739755520,Neoavatara,United States
+19,2022-12-13,01:08:57,annotations: Ukraine,1602470598814437377,TabithaStevens8,UNKWN
+20,2022-12-13,01:08:57,annotations: Russia,1602470598814437377,TabithaStevens8,UNKWN
+21,2022-12-13,01:08:57,annotations: Wagner,1602470598814437377,TabithaStevens8,UNKWN
+22,2022-12-13,01:08:57,links: https://www.globnewswire.com/2022/12/13/ukraine-says-it-hit-hotel-where-members-of-russias-wagner-group-gathered/,1602470598814437377,TabithaStevens8,UNKWN
+23,2009-05-04,04:23:52,tweeted: Ukraine Says It Hit Hotel Where Members of Russia’s Wagner Group Gathered https://t.co/r5fCAK0KHu,1602470598814437377,TabithaStevens8,UNKWN
+24,2022-12-13,01:05:54,annotations: Wagner,1602469828539084801,globnewswire,UNKWN
+25,2022-12-13,01:05:54,annotations: Azov,1602469828539084801,globnewswire,UNKWN
+26,2022-12-13,01:05:54,annotations: Wagner,1602469828539084801,globnewswire,UNKWN
+27,2022-12-13,01:05:54,links: https://twitter.com/gfhcartel/status/1602469828539084801/photo/1,1602469828539084801,globnewswire,UNKWN
+28,2022-12-13,01:05:54,mentions: VonSpooky,1602469828539084801,globnewswire,UNKWN
+29,2022-08-23,02:25:12,"tweeted: @VonSpooky I like how your not talking about the Wagner group. Although some members of the Azov had neo-nazi ideals that’s far from the majority today, unlike the Wagner group who have continued to indoctrinate members with Nazi propaganda. https://t.co/2cSWgTeHjz",1602469828539084801,globnewswire,UNKWN
+30,2022-12-13,01:05:29,annotations: Topic,1602469726533435392,gfhcartel,People's Republic of China
+31,2022-12-13,01:05:29,links: http://www.yourname.com,1602469726533435392,gfhcartel,People's Republic of China
+32,2022-12-13,01:05:29,links: https://usaherald.com/wagner-group-operations-center-hit-by-ukraine-forces,1602469726533435392,gfhcartel,People's Republic of China
+33,2021-08-13,02:42:51,"tweeted: Hey, check out this cool site https://t.co/E40rEGO1MH #Topic via@my_twitter_name https://t.co/zyyomLHbs6",1602469726533435392,gfhcartel,People's Republic of China
+34,2022-12-13,01:05:12,annotations: Wagner Group,1602469651874975744,VonSpooky,UNKWN
+35,2022-12-13,01:05:12,annotations: Kadiivka,1602469651874975744,VonSpooky,UNKWN
+36,2022-12-13,01:05:12,annotations: Luhansk province,1602469651874975744,VonSpooky,UNKWN
+37,2022-12-13,01:05:12,links: https://www.google.ca/amp/s/eurasiantimes.com/himars-mlrs-strikes-russias-luxurious-military-facility-in-luhansk/,1602469651874975744,VonSpooky,UNKWN
+38,2022-11-22,02:26:53,"tweeted: Last night, Ukrainian artillery destroyed a luxury hotel used as headquarters by #Wagner Group mercenaries. They've been using the hotel, located in Kadiivka in Luhansk province, for months. Over 200 mercs were killed, with some estimates reporting 300 KIA
+https://t.co/IPfDsxTpjT",1602469651874975744,VonSpooky,UNKWN
+39,2022-12-13,01:03:31,annotations: Ukraine,1602469229755830272,Coloconnected5,UNKWN
+40,2022-12-13,01:03:31,annotations: Russia,1602469229755830272,Coloconnected5,UNKWN
+41,2022-12-13,01:03:31,annotations: Wagner,1602469229755830272,Coloconnected5,UNKWN
+42,2022-12-13,01:03:31,links: https://4.nulledmix.com/2022/12/13/ukraine-says-it-hit-hotel-where-members-of-russias-wagner-group-gathered/,1602469229755830272,Coloconnected5,UNKWN
+43,2021-03-13,22:21:30,tweeted: Ukraine Says It Hit Hotel Where Members of Russia’s Wagner Group Gathered https://t.co/WD3NfTnjyz,1602469229755830272,Coloconnected5,UNKWN
+0,2022-12-13,01:01:43,links: https://twitter.com/sambendett/status/1601984769260417024,1602468776720887808,belle__currie,Wurundjeri land
+1,2015-08-24,04:10:12,"tweeted: Despite the significant losses the Wagner Group has had in Ukraine, it appears Prigozhin is continuing to grow his toolbox of authoritarianism. The irony of a hackathon, an event for rapid and collaborative engineering, is not lost here. https://t.co/Sz9WZb5czR",1602468776720887808,belle__currie,Wurundjeri land
+2,2022-12-13,01:01:40,links: https://news.nulledmix.com/ukraine-says-it-hit-hotel-where-members-of-russias-wagner-group-gathered/,1602468762300579840,adamdaniel449,UNKWN
+3,2022-12-13,01:01:40,annotations: Ukraine,1602468762300579840,adamdaniel449,UNKWN
+4,2022-12-13,01:01:40,annotations: Russia,1602468762300579840,adamdaniel449,UNKWN
+5,2022-12-13,01:01:40,annotations: Wagner,1602468762300579840,adamdaniel449,UNKWN
+6,2013-04-18,09:54:15,tweeted: Ukraine Says It Hit Hotel Where Members of Russia’s Wagner Group Gathered https://t.co/SOQ4bv2hnA,1602468762300579840,adamdaniel449,UNKWN
+7,2022-12-13,00:48:45,annotations: Russia,1602465513912897536,EgiziiJeff,"Illinois, USA"
+8,2022-12-13,00:48:45,annotations: Wagner Group,1602465513912897536,EgiziiJeff,"Illinois, USA"
+9,2022-12-13,00:48:45,annotations: Moscow,1602465513912897536,EgiziiJeff,"Illinois, USA"
+10,2022-12-13,00:48:45,annotations: Iran,1602465513912897536,EgiziiJeff,"Illinois, USA"
+11,2022-12-13,00:48:45,annotations: N,1602465513912897536,EgiziiJeff,"Illinois, USA"
+12,2022-12-13,00:48:45,annotations: Korea,1602465513912897536,EgiziiJeff,"Illinois, USA"
+13,2022-12-13,00:48:45,mentions: RadioFreeTom,1602465513912897536,EgiziiJeff,"Illinois, USA"
+14,2019-08-08,10:56:08,tweeted: @RadioFreeTom Wasn’t he getting his weapons from Russia? He’s been replaced long ago. Probably the Wagner Group is the gunrunners for Moscow but now they are going hat in hand to Iran and N Korea for weapons.,1602465513912897536,EgiziiJeff,"Illinois, USA"
+15,2022-12-13,00:48:07,links: https://twitter.com/Ken00399154/status/1602465356060430336/photo/1,1602465356060430336,RadioFreeTom,"Newport, RI"
+16,2022-12-13,00:48:07,mentions: maria_drutska,1602465356060430336,RadioFreeTom,"Newport, RI"
+17,2012-01-10,04:23:15,"tweeted: @maria_drutska The wagner group last night found out when it was going its ""O Clock"" time for HIMARS 300 Wagnerites KIA https://t.co/5szFdYM0cW",1602465356060430336,RadioFreeTom,"Newport, RI"
+18,2022-12-13,00:47:16,annotations: Wagner,1602465140015828992,Ken00399154,Canada 
+19,2012-06-16,21:30:32,tweeted: Wagner group IS Russian military group.  They are not some private company,1602465140015828992,Ken00399154,Canada 
+20,2022-12-13,00:46:57,links: https://twitter.com/OlgaNYC1211/status/1602463348624433152,1602465060999548928,maria_drutska,"Ukraine, Kyiv"
+21,2022-12-13,00:46:57,annotations: UkraineUnderSiege,1602465060999548928,maria_drutska,"Ukraine, Kyiv"
+22,2022-12-13,00:46:57,annotations: Wagner,1602465060999548928,maria_drutska,"Ukraine, Kyiv"
+23,2022-03-01,15:21:04,"tweeted: #UkraineUnderSiege
+
+Wagner should be declared a terrorist group. https://t.co/rCNelBVHhN",1602465060999548928,maria_drutska,"Ukraine, Kyiv"
+24,2022-12-13,00:46:10,links: https://twitter.com/OlgaNYC1211/status/1602463348624433152,1602464862072098816,favored_D,Worldwide
+25,2014-01-03,02:06:12,tweeted: Why hasn't the Wagner Group been designated as a terrorist organization yet? There are many crimes against humanity by them already registered. https://t.co/rtcyP6MyfU,1602464862072098816,favored_D,Worldwide
+26,2022-12-13,00:45:03,links: https://www.19fortyfive.com/2022/12/putin-wont-like-this-ukraine-is-trying-to-kill-the-wagner-group/,1602464582014046209,MinnesotaMaryS,"Minnesota, USA  😷😷"
+27,2022-12-13,00:45:03,annotations: Putin,1602464582014046209,MinnesotaMaryS,"Minnesota, USA  😷😷"
+28,2022-12-13,00:45:03,annotations: Ukraine,1602464582014046209,MinnesotaMaryS,"Minnesota, USA  😷😷"
+29,2022-12-13,00:45:03,annotations: Wagner Group,1602464582014046209,MinnesotaMaryS,"Minnesota, USA  😷😷"
+30,2012-11-02,02:49:14,tweeted: Putin Won’t Like This: Ukraine Is Trying to Kill the Wagner Group https://t.co/cxztbcCvEV,1602464582014046209,MinnesotaMaryS,"Minnesota, USA  😷😷"
+31,2022-12-13,00:41:34,links: https://twitter.com/SamHarp65562239/status/1602463707610681344/photo/1,1602463707610681344,paulfuhlir,"Callicoon, NY"
+32,2022-12-13,00:41:34,links: https://twitter.com/SamHarp65562239/status/1602463707610681344/photo/1,1602463707610681344,paulfuhlir,"Callicoon, NY"
+33,2022-12-13,00:41:34,annotations: Wagner,1602463707610681344,paulfuhlir,"Callicoon, NY"
+34,2022-12-13,00:41:34,mentions: OlgaNYC1211,1602463707610681344,paulfuhlir,"Callicoon, NY"
+35,2012-12-26,18:50:23,"tweeted: @OlgaNYC1211 Wagner group kills people with a sledgehammer. Sometimes, they even sell merch T-shirts. https://t.co/fidEmMzOvo",1602463707610681344,paulfuhlir,"Callicoon, NY"
+36,2022-12-13,00:38:16,annotations: Nazis,1602462875397783552,jlewis237,UNKWN
+37,2022-12-13,00:38:16,annotations: Russia,1602462875397783552,jlewis237,UNKWN
+38,2022-12-13,00:38:16,annotations: Azov,1602462875397783552,jlewis237,UNKWN
+39,2022-12-13,00:38:16,annotations: Russia,1602462875397783552,jlewis237,UNKWN
+40,2022-12-13,00:38:16,annotations: Rus,1602462875397783552,jlewis237,UNKWN
+41,2022-12-13,00:38:16,annotations: Russia Imperial Movement,1602462875397783552,jlewis237,UNKWN
+42,2022-12-13,00:38:16,annotations: Wagner Group,1602462875397783552,jlewis237,UNKWN
+43,2022-12-13,00:38:16,annotations: Rusich Group,1602462875397783552,jlewis237,UNKWN
+44,2022-12-13,00:38:16,mentions: Tohto1965,1602462875397783552,jlewis237,UNKWN
+45,2022-12-13,00:38:16,mentions: KlausRmer5,1602462875397783552,jlewis237,UNKWN
+46,2022-12-13,00:38:16,mentions: Michibeck5,1602462875397783552,jlewis237,UNKWN
+47,2022-12-13,00:38:16,mentions: MikiKikirikikik,1602462875397783552,jlewis237,UNKWN
+48,2022-12-13,00:38:16,mentions: RuiViei63652135,1602462875397783552,jlewis237,UNKWN
+49,2022-12-13,00:38:16,mentions: Podolyak_M,1602462875397783552,jlewis237,UNKWN
+50,2014-03-15,01:37:28,"tweeted: @Tohto1965 @KlausRmer5 @Michibeck5 @MikiKikirikikik @RuiViei63652135 @Podolyak_M So what?There are neo-Nazis is all over the world although exponentially more in Russia than elsewhere. Is one battalion Azov that intimidates Russia to the point of starting a war?Rus has plenty of them like Russia Imperial Movement,Wagner Group,Rusich Group, sort them out first",1602462875397783552,jlewis237,UNKWN
+0,2022-12-13,00:35:58,annotations: Ukraine,1602462296441225216,Newsis4Everyone,"NY, USA"
+1,2022-12-13,00:35:58,annotations: Russia,1602462296441225216,Newsis4Everyone,"NY, USA"
+2,2022-12-13,00:35:58,annotations: Wagner,1602462296441225216,Newsis4Everyone,"NY, USA"
+3,2022-12-13,00:35:58,links: https://newsisforeveryone.com/2022/12/13/ukraine-says-it-hit-hotel-where-members-of-russias-wagner-group-gathered/,1602462296441225216,Newsis4Everyone,"NY, USA"
+4,2022-04-23,19:51:59,tweeted: Ukraine Says It Hit Hotel Where Members of Russia’s Wagner Group Gathered https://t.co/D7bLm2bz9O,1602462296441225216,Newsis4Everyone,"NY, USA"
+5,2022-12-13,00:32:41,mentions: YahooNewsUK,1602461472025890816,DavidAFoot,UNKWN
+6,2022-12-13,00:32:41,links: https://uk.news.yahoo.com/huge-number-killed-strike-russian-114637132.html?soc_src=social-sh&soc_trk=tw&tsrc=twtr,1602461472025890816,DavidAFoot,UNKWN
+7,2012-10-09,14:47:29,"tweeted: Ukraine Invasion: Significant victorious attacks on the Eastern Front Kadiivka against Wagner group and Southern Front at Melitopol in Southern Front.
+‘Huge number’ killed in strike on Russian mercenary group’s HQ https://t.co/HUPVDZPCsD via @yahooNewsUK",1602461472025890816,DavidAFoot,UNKWN
+8,2022-12-13,00:32:32,mentions: YouTube,1602461433509416962,YahooNewsUK,London
+9,2022-12-13,00:32:32,annotations: Clarissa Ward,1602461433509416962,YahooNewsUK,London
+10,2022-12-13,00:32:32,annotations: Wagner Group,1602461433509416962,YahooNewsUK,London
+11,2022-12-13,00:32:32,annotations: US,1602461433509416962,YahooNewsUK,London
+12,2022-12-13,00:32:32,links: https://youtu.be/ps1pyLGZG_Y,1602461433509416962,YahooNewsUK,London
+13,2009-02-13,15:44:54,tweeted: Clarissa Ward breaks down Wagner Group head’s warning to US https://t.co/2OZjmnOfXV via @YouTube,1602461433509416962,YahooNewsUK,London
+14,2022-12-13,00:29:20,links: https://twitter.com/InRodWeTrustMTL/status/1602460628358402048/photo/1,1602460628358402048,BSBonner,"Kyiv, Ukraine"
+15,2022-12-13,00:29:20,links: https://twitter.com/InRodWeTrustMTL/status/1602460628358402048/photo/1,1602460628358402048,BSBonner,"Kyiv, Ukraine"
+16,2022-12-13,00:29:20,links: https://twitter.com/UAWeapons/status/1602279682841448451,1602460628358402048,BSBonner,"Kyiv, Ukraine"
+17,2009-06-21,08:11:00,"tweeted: As mentioned, Sunday saw major combat around Bakhmut in eastern Ukraine. #Russia and their #Wagner Group mercenaries/criminals are losing hundreds of men daily in addition to Russian military losses. #Ukraine destroyed 2 updated Russian T72B3s, represents a loss of 5M $ for Putin https://t.co/xJJU3uCK0w https://t.co/jNXTmbKIQu",1602460628358402048,BSBonner,"Kyiv, Ukraine"
+18,2022-12-13,00:27:30,mentions: MarkHertling,1602460166611410944,YouTube,"San Bruno, CA"
+19,2022-12-13,00:27:30,mentions: ErinBurnett,1602460166611410944,YouTube,"San Bruno, CA"
+20,2022-12-13,00:27:30,mentions: OutFrontCNN,1602460166611410944,YouTube,"San Bruno, CA"
+21,2022-12-13,00:27:30,annotations: Wagner Group,1602460166611410944,YouTube,"San Bruno, CA"
+22,2022-12-13,00:27:30,annotations: US,1602460166611410944,YouTube,"San Bruno, CA"
+23,2022-12-13,00:27:30,annotations: Syria,1602460166611410944,YouTube,"San Bruno, CA"
+24,2022-12-13,00:27:30,links: https://www.coffeeordie.com/wagner-group-syria-khasham,1602460166611410944,YouTube,"San Bruno, CA"
+25,2007-11-13,21:43:46,"tweeted: @MarkHertling @ErinBurnett @OutFrontCNN Wagner Group attacked US troops in Syria, 2018 🤯
+
+I didn't know, thanks for sharing General! 
+
+Did some searching...This must be it:
+https://t.co/JBvd5nySio",1602460166611410944,YouTube,"San Bruno, CA"
+26,2022-12-13,00:26:11,links: https://www.nytimes.com/2022/12/12/world/europe/wagner-group-ukraine-strike.html,1602459834988765184,InRodWeTrustMTL,Montreal
+27,2012-01-03,20:38:06,tweeted: https://t.co/gcu1lPk05i,1602459834988765184,InRodWeTrustMTL,Montreal
+28,2022-12-13,00:24:34,mentions: MotternNate,1602459426371391494,Japan_isNumber1,WWIII
+29,2022-12-13,00:24:34,mentions: ThisIsKyleR,1602459426371391494,Japan_isNumber1,WWIII
+30,2022-12-13,00:24:34,mentions: elonmusk,1602459426371391494,Japan_isNumber1,WWIII
+31,2022-12-13,00:24:34,annotations: Wagner Group,1602459426371391494,Japan_isNumber1,WWIII
+32,2016-08-22,17:05:33,tweeted: @MotternNate @ThisIsKyleR @elonmusk Hate criminal for hire?  Wagner Group needs you!,1602459426371391494,Japan_isNumber1,WWIII
+33,2022-12-13,00:22:45,annotations: Wagner,1602458972702883840,MarkHertling,Florida
+34,2022-12-13,00:22:45,annotations: Blackwater,1602458972702883840,MarkHertling,Florida
+35,2015-12-14,19:04:25,tweeted: Wagner group is like Blackwater company. You know what they do.,1602458972702883840,MarkHertling,Florida
+36,2022-12-13,00:22:25,annotations: JImmyMac,1602458888485408768,ErinBurnett,UNKWN
+37,2022-12-13,00:22:25,annotations: Africa,1602458888485408768,ErinBurnett,UNKWN
+38,2022-12-13,00:22:25,annotations: Tripoli,1602458888485408768,ErinBurnett,UNKWN
+39,2022-12-13,00:22:25,annotations: UK,1602458888485408768,ErinBurnett,UNKWN
+40,2022-12-13,00:22:25,annotations: Hail,1602458888485408768,ErinBurnett,UNKWN
+41,2022-12-13,00:22:25,links: https://funker530.com/video/wagner-group-aircraft-turns-into-fireball-after-hard-landing/?ref=app,1602458888485408768,ErinBurnett,UNKWN
+42,2011-06-23,13:03:15,"tweeted: https://t.co/Sw8kHGVIJL JImmyMac you’ll be angry ur killers of non combatants receive good news here. They slaughter kids across Africa. U try shame me by a threat for defending real people that stopped them at gates of  #Tripoli. Real People helped me, UK couldn’t🇱🇾❤️✌️#Hail",1602458888485408768,ErinBurnett,UNKWN
+43,2022-12-13,00:22:13,mentions: rybar_en,1602458834341076998,OutFrontCNN,"New York, NY "
+44,2022-12-13,00:22:13,annotations: Wagner,1602458834341076998,OutFrontCNN,"New York, NY "
+45,2011-08-24,16:55:20,tweeted: @rybar_en They are not mercenaries but volunteers! Mercenaries fight on Wagner group!,1602458834341076998,OutFrontCNN,"New York, NY "

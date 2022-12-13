@@ -1,0 +1,319 @@
+,date,approx_time,activity,details,name,location
+0,2022-12-12,11:54:05,annotations: Ukraine,1602270564030337024,SGNewsAlerts,UNKWN
+1,2022-12-12,11:54:05,annotations: Lemekhani Nyirenda,1602270564030337024,SGNewsAlerts,UNKWN
+2,2022-12-12,11:54:05,annotations: Russia,1602270564030337024,SGNewsAlerts,UNKWN
+3,2022-12-12,11:54:05,annotations: Wagner,1602270564030337024,SGNewsAlerts,UNKWN
+4,2022-12-12,11:54:05,annotations: Wagner,1602270564030337024,SGNewsAlerts,UNKWN
+5,2022-12-12,11:54:05,annotations: Russia,1602270564030337024,SGNewsAlerts,UNKWN
+6,2022-12-12,11:54:05,annotations: UkraineWar,1602270564030337024,SGNewsAlerts,UNKWN
+7,2022-12-12,11:54:05,links: https://www.bbc.com/news/world-africa-63935260,1602270564030337024,SGNewsAlerts,UNKWN
+8,2022-05-13,15:31:04,tweeted: Ukraine war: Lemekhani Nyirenda was recruited by Russia's mercenary group Wagner. https://t.co/KeqlrcLqXR #Wagner #Russia #UkraineWar #UkraineRussiaWar️,1602270564030337024,SGNewsAlerts,UNKWN
+9,2022-12-12,11:52:01,annotations: Russia,1602270041101197314,dave1agar,"Toronto, Canada"
+10,2022-12-12,11:52:01,annotations: Wagner,1602270041101197314,dave1agar,"Toronto, Canada"
+11,2022-12-12,11:52:01,annotations: Luhansk,1602270041101197314,dave1agar,"Toronto, Canada"
+12,2022-12-12,11:52:01,annotations: Ukraine,1602270041101197314,dave1agar,"Toronto, Canada"
+13,2022-12-12,11:52:01,links: https://www.bbc.co.uk/news/world-europe-63933132,1602270041101197314,dave1agar,"Toronto, Canada"
+14,2009-03-11,22:53:56,"tweeted: “Ukrainian forces have struck a headquarters of Russia's Wagner mercenary group, says the governor-in-exile of Luhansk in eastern Ukraine.” https://t.co/42XdJoGGQf",1602270041101197314,dave1agar,"Toronto, Canada"
+15,2022-12-12,11:51:20,mentions: demunderground,1602269871978340352,Dushan41,UNKWN
+16,2022-12-12,11:51:20,links: https://democraticunderground.com/1017789656,1602269871978340352,Dushan41,UNKWN
+17,2009-03-28,09:04:18,tweeted: Luhansk Wagner group base is destroyed by Ukraine - Times Radio - Democratic Underground https://t.co/8Kz6gsPHoJ via @demunderground,1602269871978340352,Dushan41,UNKWN
+18,2022-12-12,11:50:16,mentions: FRANCE24,1602269603173801986,demunderground,Washington DC
+19,2022-12-12,11:50:16,links: https://f24.my/96kV.T,1602269603173801986,demunderground,Washington DC
+20,2012-05-11,19:44:29,"tweeted: Live: Ukraine claims strike on Wagner group HQ, says ‘huge number’ of Russian mercenaries killed https://t.co/RNLJbB9bdM @FRANCE24 2022/12/12 07:42",1602269603173801986,demunderground,Washington DC
+21,2022-12-12,11:50:00,annotations: Russia,1602269533686964224,jmarine,Japan
+22,2022-12-12,11:50:00,annotations: Wagner,1602269533686964224,jmarine,Japan
+23,2022-12-12,11:50:00,mentions: gullivercragg,1602269533686964224,jmarine,Japan
+24,2022-12-12,11:50:00,mentions: gullivercragg,1602269533686964224,jmarine,Japan
+25,2022-12-12,11:50:00,links: https://twitter.com/France24_en/status/1602269533686964224/video/1,1602269533686964224,jmarine,Japan
+26,2008-03-04,05:41:22,"tweeted: @gullivercragg 🔴War in 🇺🇦: A Ukrainian senior official has claimed that the country’s forces attacked a hotel where members of Russia’s private #Wagner military group were based, and allegedly killed ‘a huge number’ of them.
+
+Here's @gullivercragg with what we know ⤵️ https://t.co/FxKIkcjrvK",1602269533686964224,jmarine,Japan
+27,2022-12-12,11:49:30,annotations: Wagner Group,1602269409963380736,FRANCE24,"Paris, France"
+28,2022-12-12,11:49:30,annotations: Clayderman Group,1602269409963380736,FRANCE24,"Paris, France"
+29,2022-12-12,11:49:30,links: https://twitter.com/TheEndOfPutin5/status/1602269409963380736/photo/1,1602269409963380736,FRANCE24,"Paris, France"
+30,2007-03-23,09:40:48,"tweeted: 🚨🚨🚨 HOT NEWS !!!
+To have the name correspond better to the quality of their work, Wagner Group has been renamed Clayderman Group today; https://t.co/K3aomTn6XU",1602269409963380736,FRANCE24,"Paris, France"
+31,2022-12-12,11:44:36,annotations: Ukraine,1602268175827189760,France24_en,"Paris, France"
+32,2022-12-12,11:44:36,annotations: Lemekhani Nyirenda,1602268175827189760,France24_en,"Paris, France"
+33,2022-12-12,11:44:36,annotations: Russia,1602268175827189760,France24_en,"Paris, France"
+34,2022-12-12,11:44:36,annotations: Wagner,1602268175827189760,France24_en,"Paris, France"
+35,2022-12-12,11:44:36,links: https://www.bbc.co.uk/news/world-africa-63935260?at_medium=RSS&at_campaign=KARANGA,1602268175827189760,France24_en,"Paris, France"
+36,2009-03-18,09:22:54,"tweeted: (En) Ukraine war: Lemekhani Nyirenda was recruited by Russia's mercenary group Wagner
+#123INFO
+https://t.co/LGlB61VDwI",1602268175827189760,France24_en,"Paris, France"
+37,2022-12-12,11:43:23,annotations: Ukraine,1602267867831050240,gullivercragg,"Kyiv, Ukraine"
+38,2022-12-12,11:43:23,annotations: Lemekhani Nyirenda,1602267867831050240,gullivercragg,"Kyiv, Ukraine"
+39,2022-12-12,11:43:23,annotations: Russia,1602267867831050240,gullivercragg,"Kyiv, Ukraine"
+40,2022-12-12,11:43:23,links: https://news.bringlifestyle.com/ukraine-war-lemekhani-nyirenda-was-recruited-by-russias-mercenary-group-wagner/,1602267867831050240,gullivercragg,"Kyiv, Ukraine"
+41,2009-06-22,14:47:47,tweeted: Ukraine war: Lemekhani Nyirenda was recruited by Russia’s mercenary group Wagner https://t.co/NcsMl3f25b,1602267867831050240,gullivercragg,"Kyiv, Ukraine"
+42,2022-12-12,11:42:37,annotations: Wagner Group,1602267676314931201,TheEndOfPutin5,nowhere
+43,2022-12-12,11:42:37,annotations: Vladimir Putin,1602267676314931201,TheEndOfPutin5,nowhere
+44,2022-12-12,11:42:37,annotations: Wagner,1602267676314931201,TheEndOfPutin5,nowhere
+45,2022-12-12,11:42:37,annotations: Ukraine,1602267676314931201,TheEndOfPutin5,nowhere
+46,2022-04-25,15:04:08,"tweeted: private military force, the ""Wagner Group,"" a state-sanctioned group founded by an Ally of President Vladimir Putin.
+
+Wagner soldiers, widely seen as mercenaries, are fighting alongside the regular Russian army in Ukraine, particularly in the east of the country, where fighting",1602267676314931201,TheEndOfPutin5,nowhere
+47,2022-12-12,11:42:35,annotations: Luhansk,1602267667469144066,Africa_News_Off,Africa
+48,2022-12-12,11:42:35,annotations: Wagner,1602267667469144066,Africa_News_Off,Africa
+49,2022-12-12,11:42:35,annotations: Ukraine,1602267667469144066,Africa_News_Off,Africa
+50,2022-12-12,11:42:35,annotations: Belgrade,1602267667469144066,Africa_News_Off,Africa
+51,2022-12-12,11:42:35,annotations: Serbia,1602267667469144066,Africa_News_Off,Africa
+52,2022-12-12,11:42:35,annotations: Wagner,1602267667469144066,Africa_News_Off,Africa
+53,2019-09-23,02:14:13,"tweeted: Russian mercenaries suffered 'very significant' losses in Luhansk, official says
+A mural praises the Russian Wagner group and its mercenaries fighting in Ukraine on March 30, 2022 in Belgrade, Serbia.
+A mural praises the Russian Wagner group and its mercenaries fighting",1602267667469144066,Africa_News_Off,Africa
+0,2022-12-12,11:42:08,links: https://twitter.com/mariataylor6581/status/1602267553866584064/photo/1,1602267553866584064,mariataylor6581,Canterbury
+1,2015-12-22,08:38:18,tweeted: Ukraine war: Lemekhani Nyirenda was recruited by Russia's mercenary group Wagner https://t.co/5PcIql4Xfy,1602267553866584064,mariataylor6581,Canterbury
+2,2022-12-12,11:41:56,annotations: FBI,1602267504260382720,AbuuZah,Global Citizen
+3,2022-12-12,11:41:56,annotations: Wagner Group,1602267504260382720,AbuuZah,Global Citizen
+4,2022-12-12,11:41:56,annotations: Ukraine,1602267504260382720,AbuuZah,Global Citizen
+5,2022-12-12,11:41:56,annotations: Wagner Group,1602267504260382720,AbuuZah,Global Citizen
+6,2022-12-12,11:41:56,annotations: Kamakaze,1602267504260382720,AbuuZah,Global Citizen
+7,2022-12-12,11:41:56,mentions: SamRamani2,1602267504260382720,AbuuZah,Global Citizen
+8,2011-10-04,19:27:51,"tweeted: @SamRamani2 Last week, the FBI declared Wagner Group most wanted, today Ukraine strike the Wagner Group, surely they were given instructions and coordinates to strike, they must be prepared for Kamakaze",1602267504260382720,AbuuZah,Global Citizen
+9,2022-12-12,11:41:22,links: https://tubelive.page.link/E5xP25WwLrJ45YCJ9,1602267361369010178,SamRamani2,"Oxford, England"
+10,2013-10-12,23:22:53,"tweeted: Clarissa Ward breaks down Wagner Group head’s warning to US
+##UK ##SlavaUkraini ##QatarWorldCup2022 ##UkraineRussianWar # ##USA
+https://t.co/7ZeFtnvDF5",1602267361369010178,SamRamani2,"Oxford, England"
+11,2022-12-12,11:40:05,annotations: Kadiivka,1602267040458457090,cnnnewsukraine,UNKWN
+12,2022-12-12,11:40:05,annotations: Luhansk region,1602267040458457090,cnnnewsukraine,UNKWN
+13,2022-12-12,11:40:05,annotations: Russia,1602267040458457090,cnnnewsukraine,UNKWN
+14,2022-12-12,11:40:05,annotations: Wagner,1602267040458457090,cnnnewsukraine,UNKWN
+15,2022-12-12,11:40:05,links: https://www.msn.com/en-gb/news/world/live-ukraine-claims-strike-on-wagner-group-hq-says-huge-number-of-russian-mercenaries-killed/ar-AA15apGM?ocid=msedgntp&cvid=b331302f783248eaada10ece5fe04a0e,1602267040458457090,cnnnewsukraine,UNKWN
+16,2014-10-19,22:38:50,"tweeted: Ukrainian official claimed Sunday: forces attacked a hotel in the city of Kadiivka in the occupied Luhansk region, where Russia’s private Wagner military are based, allegedly killing ‘a huge number’ of them. [report not confirmed independently].  https://t.co/A8jcIpuCjU",1602267040458457090,cnnnewsukraine,UNKWN
+17,2022-12-12,11:38:08,annotations: Ukraine,1602266550165086208,robdn,"London, England"
+18,2022-12-12,11:38:08,annotations: Putin,1602266550165086208,robdn,"London, England"
+19,2022-12-12,11:38:08,annotations: Wagner HQ,1602266550165086208,robdn,"London, England"
+20,2022-12-12,11:38:08,annotations: Wagner Group,1602266550165086208,robdn,"London, England"
+21,2022-12-12,11:38:08,annotations: Ukraine,1602266550165086208,robdn,"London, England"
+22,2022-12-12,11:38:08,links: https://www.msn.com/en-us/news/world/ukraine-news-live-many-killed-in-strike-on-putin-s-private-wagner-hq-in-eastern-battle/ar-AA15a7HU?cvid=06a3f7fc923a4d32ae5a2f91eb5360bd,1602266550165086208,robdn,"London, England"
+23,2009-07-11,13:39:50,"tweeted: Ukraine news - live: ‘Many killed’ in strike on Putin’s private Wagner HQ in eastern battle https://t.co/TaSZrtSyyy Love it, wish the leaders of Wagner Group were there when it was hit. Go Ukraine!",1602266550165086208,robdn,"London, England"
+24,2022-12-12,11:35:22,annotations: Ukraine,1602265852350431232,DeborahLago5,UNKWN
+25,2022-12-12,11:35:22,annotations: Lemekhani Nyirenda,1602265852350431232,DeborahLago5,UNKWN
+26,2022-12-12,11:35:22,annotations: Russia,1602265852350431232,DeborahLago5,UNKWN
+27,2022-12-12,11:35:22,annotations: Wagner,1602265852350431232,DeborahLago5,UNKWN
+28,2022-12-12,11:35:22,links: https://www.bbc.co.uk/news/world-africa-63935260,1602265852350431232,DeborahLago5,UNKWN
+29,2019-05-06,15:15:47,"tweeted: #Ukraine war: Lemekhani Nyirenda was recruited by Russia's mercenary group Wagner
+https://t.co/6OKafNyL8G",1602265852350431232,DeborahLago5,UNKWN
+30,2022-12-12,11:31:24,annotations: Ukraine,1602264855456747520,2dialogue,"Sarasota, FL"
+31,2022-12-12,11:31:24,annotations: Wagner,1602264855456747520,2dialogue,"Sarasota, FL"
+32,2022-12-12,11:31:24,annotations: Blackwater,1602264855456747520,2dialogue,"Sarasota, FL"
+33,2022-12-12,11:31:24,annotations: USA,1602264855456747520,2dialogue,"Sarasota, FL"
+34,2022-12-12,11:31:24,links: https://www.aljazeera.com/news/2022/12/12/ukraine-says-it-has-killed-wagner-mercenaries-who-are-they,1602264855456747520,2dialogue,"Sarasota, FL"
+35,2011-10-05,23:32:32,"tweeted: Ukraine says it killed Wagner mercenaries, who are they?  Controversial armed group emerged from being a murky guns-for-hire enterprise to a public extension of the Russian military (like Blackwater in USA).
+
+https://t.co/VLgTWD3Y8v",1602264855456747520,2dialogue,"Sarasota, FL"
+36,2022-12-12,11:29:02,annotations: Wagner Group,1602264257441239041,natty4bumpo,"Chattanooga, TN, USA"
+37,2022-12-12,11:29:02,annotations: Bakhmut,1602264257441239041,natty4bumpo,"Chattanooga, TN, USA"
+38,2022-12-12,11:29:02,annotations: ukraine,1602264257441239041,natty4bumpo,"Chattanooga, TN, USA"
+39,2022-12-12,11:29:02,annotations: SlavaUkraini,1602264257441239041,natty4bumpo,"Chattanooga, TN, USA"
+40,2022-12-12,11:29:02,annotations: USA,1602264257441239041,natty4bumpo,"Chattanooga, TN, USA"
+41,2022-12-12,11:29:02,annotations: UkraineRussianWar,1602264257441239041,natty4bumpo,"Chattanooga, TN, USA"
+42,2022-12-12,11:29:02,annotations: QatarWorldCup2022,1602264257441239041,natty4bumpo,"Chattanooga, TN, USA"
+43,2022-12-12,11:29:02,links: https://tubelive.page.link/dCPCLJK12D8T4Rqn8,1602264257441239041,natty4bumpo,"Chattanooga, TN, USA"
+44,2009-04-10,05:21:26,"tweeted: Ukrainian Special Forces hunt down and destroy Wagner Group mercenaries in Bakhmut
+##ukraine ##SlavaUkraini # ##USA ##UkraineRussianWar ##QatarWorldCup2022
+https://t.co/HOHuCVCw5W",1602264257441239041,natty4bumpo,"Chattanooga, TN, USA"
+45,2022-12-12,11:28:36,annotations: Ukraine,1602264148028817408,tellmetimes,UNKWN
+46,2022-12-12,11:28:36,annotations: Lemekhani Nyirenda,1602264148028817408,tellmetimes,UNKWN
+47,2022-12-12,11:28:36,annotations: Russia,1602264148028817408,tellmetimes,UNKWN
+48,2022-12-12,11:28:36,annotations: Wagner,1602264148028817408,tellmetimes,UNKWN
+49,2022-12-12,11:28:36,links: http://dlvr.it/SfDQPC,1602264148028817408,tellmetimes,UNKWN
+50,2022-01-08,12:03:57,tweeted: Ukraine war: Lemekhani Nyirenda was recruited by Russia's mercenary group Wagner https://t.co/IIDvKHCGtL,1602264148028817408,tellmetimes,UNKWN
+51,2022-12-12,11:28:16,annotations: بن هودجز,1602264067435003905,45mogaber45,UNKWN
+52,2022-12-12,11:28:16,annotations: أوكرانيا,1602264067435003905,45mogaber45,UNKWN
+53,2022-12-12,11:28:16,links: https://arabic.cnn.com/world/video/2022/12/12/v130728-wagner-group-explosion-luhansk-melitopol-ukraine-russia-hodges,1602264067435003905,45mogaber45,UNKWN
+54,2022-08-13,21:25:00,"tweeted: بن هودجز يوضح لـCNN ما يعنيه تفجير مقر مجموعة ""فاغنر"" الروسية في أوكرانيا - CNN Arabic https://t.co/ms6TxTYlcN",1602264067435003905,45mogaber45,UNKWN
+0,2022-12-12,11:26:55,annotations: Ukraine,1602263726614355968,knight_riders43,"Dubai, United Arab Emirates"
+1,2022-12-12,11:26:55,annotations: Wagner,1602263726614355968,knight_riders43,"Dubai, United Arab Emirates"
+2,2022-12-12,11:26:55,annotations: Bangladesh,1602263726614355968,knight_riders43,"Dubai, United Arab Emirates"
+3,2022-12-12,11:26:55,annotations: Afghan,1602263726614355968,knight_riders43,"Dubai, United Arab Emirates"
+4,2022-12-12,11:26:55,annotations: Pakistan,1602263726614355968,knight_riders43,"Dubai, United Arab Emirates"
+5,2022-12-12,11:26:55,annotations: ck,1602263726614355968,knight_riders43,"Dubai, United Arab Emirates"
+6,2022-12-12,11:26:55,annotations: ber in U,1602263726614355968,knight_riders43,"Dubai, United Arab Emirates"
+7,2022-11-26,13:52:00,"tweeted: 🇺🇦 Ukraine strike hits Wagner group headquarters- official
+
+🇧🇩 Bangladesh's opposition lawmakers quit parliament demand fresh vote
+
+🇵🇰 🇦🇫 Several killed in firing by Afghan forces on Pakistan border
+
+🏴󠁧󠁢󠁳󠁣󠁴󠁿 Suspected Lockerbie bomber in US custody:Scotland
+
+#World #UkraineRussiaWar️",1602263726614355968,knight_riders43,"Dubai, United Arab Emirates"
+8,2022-12-12,11:25:33,links: https://www.firstpost.com/explainers/wagner-group-russian-mercenary-group-ukraine-war-11794811.html?utm_source=twitter&utm_medium=social,1602263383847604224,firstpost,"Mumbai, India"
+9,2022-12-12,11:25:33,annotations: Russia,1602263383847604224,firstpost,"Mumbai, India"
+10,2022-12-12,11:25:33,annotations: WagnerPMC,1602263383847604224,firstpost,"Mumbai, India"
+11,2022-12-12,11:25:33,annotations: Ukraine,1602263383847604224,firstpost,"Mumbai, India"
+12,2022-12-12,11:25:33,annotations: Vladimir Putin,1602263383847604224,firstpost,"Mumbai, India"
+13,2022-12-12,11:25:33,annotations: Wagner,1602263383847604224,firstpost,"Mumbai, India"
+14,2022-12-12,11:25:33,annotations: PMC,1602263383847604224,firstpost,"Mumbai, India"
+15,2022-12-12,11:25:33,annotations: RussiaUkraineWar,1602263383847604224,firstpost,"Mumbai, India"
+16,2011-02-23,13:09:22,"tweeted: Members of Russia’s #WagnerPMC were killed following an attack by Ukraine’s armed forces on a hotel. The mercenaries, also known as Vladimir Putin’s private army, have been working in the shadows since 2014 #Wagner_PMC #RussiaUkraineWar 
+https://t.co/CbjH36B2b9",1602263383847604224,firstpost,"Mumbai, India"
+17,2022-12-12,11:25:33,links: https://www.reuters.com/world/europe/ukraine-regional-official-says-strike-hits-wagner-group-headquarters-2022-12-11/,1602263380722679809,alleyesonwagner,Internet
+18,2022-12-12,11:25:33,annotations: Ukraine,1602263380722679809,alleyesonwagner,Internet
+19,2022-12-12,11:25:33,annotations: Wagner,1602263380722679809,alleyesonwagner,Internet
+20,2022-12-12,11:25:33,annotations: Reuters,1602263380722679809,alleyesonwagner,Internet
+21,2022-03-11,09:59:19,tweeted: Ukraine regional official says strike hits Wagner group headquarters | Reuters https://t.co/IoFk2qLLrr,1602263380722679809,alleyesonwagner,Internet
+22,2022-12-12,11:25:09,links: https://globaltrends.digital/post/ukraine-war-lemekhani-nyirenda-was-recruited-by-russia-s-mercenary-group-wagner,1602263279321382912,global_trends22,UNKWN
+23,2022-12-12,11:25:09,annotations: Ukraine,1602263279321382912,global_trends22,UNKWN
+24,2022-12-12,11:25:09,annotations: Lemekhani Nyirenda,1602263279321382912,global_trends22,UNKWN
+25,2022-12-12,11:25:09,annotations: Russia,1602263279321382912,global_trends22,UNKWN
+26,2022-12-12,11:25:09,annotations: Wagner,1602263279321382912,global_trends22,UNKWN
+27,2020-06-23,11:16:27,tweeted: Ukraine war: Lemekhani Nyirenda was recruited by Russia's mercenary group Wagner https://t.co/Ya91UGeb1D,1602263279321382912,global_trends22,UNKWN
+28,2022-12-12,11:21:44,annotations: Russia,1602262421988642819,ocholagragory,UNKWN
+29,2022-12-12,11:21:44,annotations: Ukraine,1602262421988642819,ocholagragory,UNKWN
+30,2022-12-12,11:21:44,annotations: Wagner,1602262421988642819,ocholagragory,UNKWN
+31,2022-12-12,11:21:44,annotations: Russia,1602262421988642819,ocholagragory,UNKWN
+32,2022-03-13,11:31:00,tweeted: I would like to fight for Russia in Ukraine. I ask the Wagner group to give me the opportunity to fight for Russia.,1602262421988642819,ocholagragory,UNKWN
+33,2022-12-12,11:20:37,links: https://twitter.com/HerryNapit/status/1602262139745734656/photo/1,1602262139745734656,HerryNapit,Indonesia
+34,2022-12-12,11:20:37,annotations: Wagner Group,1602262139745734656,HerryNapit,Indonesia
+35,2022-12-12,11:20:37,annotations: Putin,1602262139745734656,HerryNapit,Indonesia
+36,2022-12-12,11:20:37,annotations: Bakhmut,1602262139745734656,HerryNapit,Indonesia
+37,2022-12-12,11:20:37,annotations: Donetsk,1602262139745734656,HerryNapit,Indonesia
+38,2022-12-12,11:20:37,annotations: Ukraine,1602262139745734656,HerryNapit,Indonesia
+39,2022-12-12,11:20:37,annotations: Prigozhin,1602262139745734656,HerryNapit,Indonesia
+40,2022-12-12,11:20:37,annotations: Kremlin,1602262139745734656,HerryNapit,Indonesia
+41,2022-12-12,11:20:37,annotations: Russia,1602262139745734656,HerryNapit,Indonesia
+42,2022-12-12,11:20:37,annotations: Wagner,1602262139745734656,HerryNapit,Indonesia
+43,2022-12-12,11:20:37,annotations: UkraineWar,1602262139745734656,HerryNapit,Indonesia
+44,2020-01-13,02:40:35,"tweeted: Wagner Group is doing Putin’s dirty work in Bakhmut, Donetsk region, Ukraine. Its leader Prigozhin is trying to make a political gain, showing the Kremlin, Russia, that Wagner is the only Russian force that could counter the Ukrainians #Ukraine🇺🇦#UkraineWar #UkraineRussiaWar️ https://t.co/2zw4t3jg97",1602262139745734656,HerryNapit,Indonesia
+45,2022-12-12,11:20:22,links: https://twitter.com/peripolemou/status/1602262079326535680/photo/1,1602262079326535680,peripolemou,UNKWN
+46,2022-03-13,12:51:15,"tweeted: Η μελλοντική μας διατροφή . Αυτην μας ετοιμαζει ο Κλαους Σουαμπ και οι ομοιοι του.
+
+ #russia_ukraine_war #usa #NATO #Wagner_group_pmc https://t.co/TzB2ia678g",1602262079326535680,peripolemou,UNKWN
+47,2022-12-12,11:19:53,links: https://ift.tt/BQFjrLy,1602261957100421124,waranalysts,UNKWN
+48,2022-12-12,11:19:53,annotations: Ukraine,1602261957100421124,waranalysts,UNKWN
+49,2022-12-12,11:19:53,annotations: Wagner,1602261957100421124,waranalysts,UNKWN
+50,2022-12-12,11:19:53,annotations: The Jerusalem Post,1602261957100421124,waranalysts,UNKWN
+51,2009-12-02,14:44:38,tweeted: Ukraine regional official says strike hits Wagner group headquarters - The Jerusalem Post https://t.co/Q1Wumvubm1,1602261957100421124,waranalysts,UNKWN
+52,2022-12-12,11:18:09,mentions: S_Ibrahimkhil,1602261517709213699,underjoyed,"Frankfurt am Main, Deutschland"
+53,2022-12-12,11:18:09,annotations: Wagner Group,1602261517709213699,underjoyed,"Frankfurt am Main, Deutschland"
+54,2009-01-07,16:45:07,"tweeted: @S_Ibrahimkhil Disclaimer: Wagner Group can mean a lot of things in this particular case. It is with high probability predictable that most of the people who were killed are ""undesirables"" who are faced with instant death if they decide not to fight. And ""undesirables"" in 🇷🇺 is a broad term.",1602261517709213699,underjoyed,"Frankfurt am Main, Deutschland"
+55,2022-12-12,11:17:35,annotations: Ukraine,1602261378504458241,S_Ibrahimkhil,"Essen, Deutschland"
+56,2022-12-12,11:17:35,annotations: Wagner,1602261378504458241,S_Ibrahimkhil,"Essen, Deutschland"
+57,2022-12-12,11:17:35,annotations: Luhansk,1602261378504458241,S_Ibrahimkhil,"Essen, Deutschland"
+58,2022-12-12,11:17:35,annotations: Serhij Hajdaj,1602261378504458241,S_Ibrahimkhil,"Essen, Deutschland"
+59,2022-12-12,11:17:35,annotations: Kyiv Independent,1602261378504458241,S_Ibrahimkhil,"Essen, Deutschland"
+60,2019-06-27,02:58:25,"tweeted: #Ukraine Ukrainian forces have attacked the headquarters of the Wagner group in Luhansk.
+According to the region's governor, Serhij Hajdaj, several people have been killed.
+- It is about enormous losses, he tells the Kyiv Independent.",1602261378504458241,S_Ibrahimkhil,"Essen, Deutschland"
+0,2022-12-12,11:16:09,annotations: Luhansk,1602261018159316992,DTMsport,Geographically Unstable
+1,2022-12-12,11:16:09,annotations: Russia,1602261018159316992,DTMsport,Geographically Unstable
+2,2022-12-12,11:16:09,annotations: Wagner,1602261018159316992,DTMsport,Geographically Unstable
+3,2022-12-12,11:16:09,links: https://www.telegraph.co.uk/world-news/2022/12/11/ukraine-russia-war-news-putin-nuclear-iran-drones-latest/,1602261018159316992,DTMsport,Geographically Unstable
+4,2011-11-08,15:40:01,"tweeted: The Luhansk headquarters of Russia's notorious Wagner mercenary group has been struck, causing significant losses, according to a Ukrainian official.
+ https://t.co/wE0wYUYhvm",1602261018159316992,DTMsport,Geographically Unstable
+5,2022-12-12,11:15:36,annotations: Ukraine,1602260875964022785,ievrenofficial,India
+6,2022-12-12,11:15:36,annotations: Wagner,1602260875964022785,ievrenofficial,India
+7,2022-12-12,11:15:36,links: https://ievren.org/europe/live-blog-ukraine-strike-hits-wagner-group-headquarters-official/,1602260875964022785,ievrenofficial,India
+8,2022-04-11,16:49:54,tweeted: Live blog: Ukraine strike hits Wagner group headquarters – official https://t.co/8Pt2SCPwnV,1602260875964022785,ievrenofficial,India
+9,2022-12-12,11:15:28,mentions: VeraIrisZ,1602260844204756995,JoleJoc19195339,UNKWN
+10,2022-12-12,11:15:28,mentions: genesis_rrn,1602260844204756995,JoleJoc19195339,UNKWN
+11,2022-12-12,11:15:28,mentions: Giyu_007,1602260844204756995,JoleJoc19195339,UNKWN
+12,2022-12-12,11:15:28,mentions: AZgeopolitics,1602260844204756995,JoleJoc19195339,UNKWN
+13,2021-10-07,08:33:41,"tweeted: @VeraIrisZ @genesis_rrn @Giyu_007 @AZgeopolitics A svakako cu uvek pre podrzavati Putina, Rusku vojsku pa cak i Wagner, jer su svakako bolji od Americke vojske, NATO-a,  CIA, Erik Prince-a i njihovih placenih ubica Academi ili ti Blackwater, Greystone i Mozart Group. Pljackasi i masovne ubice.",1602260844204756995,JoleJoc19195339,UNKWN
+14,2022-12-12,11:14:55,annotations: Ukraine,1602260707646574593,VeraIrisZ,UNKWN
+15,2022-12-12,11:14:55,annotations: Wagner,1602260707646574593,VeraIrisZ,UNKWN
+16,2022-12-12,11:14:55,links: https://www.jpost.com/international/article-724629,1602260707646574593,VeraIrisZ,UNKWN
+17,2015-05-23,22:36:41,"tweeted: Ukraine regional official says strike hits Wagner group headquarters
+
+ https://t.co/gOJ2ee4dbl",1602260707646574593,VeraIrisZ,UNKWN
+18,2022-12-12,11:11:40,annotations: LCD,1602259889778221056,genesis_rrn,UNKWN
+19,2022-12-12,11:11:40,annotations: Mozart Group,1602259889778221056,genesis_rrn,UNKWN
+20,2022-12-12,11:11:40,annotations: Stravinsky,1602259889778221056,genesis_rrn,UNKWN
+21,2022-12-12,11:11:40,annotations: Mahler,1602259889778221056,genesis_rrn,UNKWN
+22,2022-12-12,11:11:40,annotations: Wagner,1602259889778221056,genesis_rrn,UNKWN
+23,2022-12-12,11:11:40,links: https://twitter.com/ivan_8848/status/1602259889778221056/video/1,1602259889778221056,genesis_rrn,UNKWN
+24,2021-05-23,18:50:14,"tweeted: I can't stand LCD marketing, for reals man 'Mozart Group', I know it's been said before by others, but still. How uncreative can you get?
+
+Why not Stravinsky group, or Mahler group or anything relevant to the 19th century to mirror this Wagner stuff. https://t.co/A2XFcoEn36",1602259889778221056,genesis_rrn,UNKWN
+25,2022-12-12,11:09:45,annotations: Ukraine,1602259403985633283,Giyu_007,Bharat
+26,2022-12-12,11:09:45,annotations: Russia,1602259403985633283,Giyu_007,Bharat
+27,2022-12-12,11:09:45,annotations: Wagner,1602259403985633283,Giyu_007,Bharat
+28,2022-12-12,11:09:45,annotations: Ukraine,1602259403985633283,Giyu_007,Bharat
+29,2022-12-12,11:09:45,annotations: Luhansk,1602259403985633283,Giyu_007,Bharat
+30,2022-12-12,11:09:45,mentions: savunmaisleri,1602259403985633283,Giyu_007,Bharat
+31,2022-12-12,11:09:45,links: https://twitter.com/metesohtaoglu/status/1602259403985633283/video/1,1602259403985633283,Giyu_007,Bharat
+32,2022-07-08,21:12:37,"tweeted: 📹 #Ukraine- Ukrainian forces have struck a headquarters of Russia’s Wagner mercenary group in eastern Ukraine, Luhansk with HIMARS system.
+📹 @savunmaisleri https://t.co/JslyACWPo4",1602259403985633283,Giyu_007,Bharat
+33,2022-12-12,11:09:16,annotations: Wagner,1602259281914597382,AZgeopolitics,Eastern Roman Empire
+34,2022-12-12,11:09:16,annotations: Nazi,1602259281914597382,AZgeopolitics,Eastern Roman Empire
+35,2022-12-12,11:09:16,mentions: DMB12445,1602259281914597382,AZgeopolitics,Eastern Roman Empire
+36,2020-10-02,15:56:38,tweeted: @DMB12445 The building was being used by Wagner who are a Neo - Nazi mercenary group,1602259281914597382,AZgeopolitics,Eastern Roman Empire
+37,2022-12-12,11:07:03,links: http://dlvr.it/SfDM8t,1602258725917818880,ivan_8848,UNKWN
+38,2016-08-16,17:21:25,"tweeted: بن هودجز يوضح لـCNN ما يعنيه تفجير مقر مجموعة ""فاغنر"" الروسية في أوكرانيا https://t.co/sUoyHx0anO",1602258725917818880,ivan_8848,UNKWN
+39,2022-12-12,11:06:51,links: https://newsfet.com/ukraine-%ce%b2%ce%bf%ce%bc%ce%b2%ce%b1%cf%81%ce%b4%ce%b9%cf%83%cf%84%ce%ad%cf%82-hotels-with-members-of-the-wagner-group/,1602258675271438338,metesohtaoglu,Istanbul - Turkiye
+40,2009-06-11,17:46:21,tweeted: Ukraine: βομβαρδιστές hotels with members of the Wagner Group https://t.co/JYMYcYtXoy,1602258675271438338,metesohtaoglu,Istanbul - Turkiye
+41,2022-12-12,11:05:19,annotations: Ukraine,1602258290930499584,savunmaisleri,"İstanbul, Türkiye"
+42,2022-12-12,11:05:19,annotations: Wagner,1602258290930499584,savunmaisleri,"İstanbul, Türkiye"
+43,2014-12-08,10:42:22,"tweeted: Ukraine says it killed Wagner mercenaries, who are they? Controversial armed group emerged from being a murky guns-for-hire enterprise to a public extension of the Russian army.",1602258290930499584,savunmaisleri,"İstanbul, Türkiye"
+0,2022-12-12,10:55:34,links: https://workme.online/2022/12/12/ukraine-says-it-killed-wagner-mercenaries-who-are-they-explainer-news/,1602255835282939904,SufiWorker,UNKWN
+1,2022-12-12,10:55:34,annotations: Wagner Group,1602255835282939904,SufiWorker,UNKWN
+2,2022-10-09,10:12:39,"tweeted: Controversial armed group emerged from being a murky guns-for-hire enterprise to a public extension of the Russian military.The controversial private military company Wagner Group is in the news againas Ukrainian authorities say a number of its # # # #
+
+https://t.co/kIlNy5JEXq",1602255835282939904,SufiWorker,UNKWN
+3,2022-12-12,10:51:41,annotations: Wagner Group,1602254860103319552,tommy_nn,"Tokyo, JAPAN"
+4,2022-12-12,10:51:41,mentions: SamRamani2,1602254860103319552,tommy_nn,"Tokyo, JAPAN"
+5,2010-01-15,21:51:50,tweeted: @SamRamani2 Merry HIMARS to Wagner Group!,1602254860103319552,tommy_nn,"Tokyo, JAPAN"
+6,2022-12-12,10:51:25,links: https://youtu.be/QsrqH-4ZIAg,1602254790427398144,SamRamani2,"Oxford, England"
+7,2022-12-12,10:51:25,annotations: Wagner Group,1602254790427398144,SamRamani2,"Oxford, England"
+8,2022-12-12,10:51:25,annotations: Ukraine,1602254790427398144,SamRamani2,"Oxford, England"
+9,2022-12-12,10:51:25,mentions: YouTube,1602254790427398144,SamRamani2,"Oxford, England"
+10,2013-10-12,23:22:53,tweeted: See aftermath of explosion at Wagner Group's purported base in Ukraine https://t.co/CbVLo53KZQ via @YouTube,1602254790427398144,SamRamani2,"Oxford, England"
+11,2022-12-12,10:46:34,links: https://youtu.be/TBVcTgM-l24,1602253569524113411,Stephen07329389,UNKWN
+12,2022-12-12,10:46:34,annotations: Wagner,1602253569524113411,Stephen07329389,UNKWN
+13,2022-12-12,10:46:34,annotations: Ukraine,1602253569524113411,Stephen07329389,UNKWN
+14,2022-12-12,10:46:34,annotations: MSM,1602253569524113411,Stephen07329389,UNKWN
+15,2022-09-20,09:56:21,"tweeted: https://t.co/bdmnm7BpwI
+
+Wagner group or Ukraine shoulders hit I don’t know…. All I know is that the MSM is full of shit and let alone taking it with a grain of salt I wouldn’t buy their garbage at all… see ya when the war ends… that will say which side stands where",1602253569524113411,Stephen07329389,UNKWN
+16,2022-12-12,10:45:40,links: https://twitter.com/khabarwala8/status/1602253345217036288/photo/1,1602253345217036288,YouTube,"San Bruno, CA"
+17,2022-12-12,10:45:40,links: https://twitter.com/khabarwala8/status/1602253345217036288/photo/1,1602253345217036288,YouTube,"San Bruno, CA"
+18,2022-12-12,10:45:40,annotations: Russia,1602253345217036288,YouTube,"San Bruno, CA"
+19,2022-12-12,10:45:40,annotations: Wagner Group,1602253345217036288,YouTube,"San Bruno, CA"
+20,2022-12-12,10:45:40,annotations: Ukraine,1602253345217036288,YouTube,"San Bruno, CA"
+21,2022-12-12,10:45:40,annotations: Luhansk,1602253345217036288,YouTube,"San Bruno, CA"
+22,2022-12-12,10:45:40,annotations: WagnerGroup,1602253345217036288,YouTube,"San Bruno, CA"
+23,2022-12-12,10:45:40,annotations: RussiaIsLosing,1602253345217036288,YouTube,"San Bruno, CA"
+24,2022-12-12,10:45:40,annotations: UkraineWar,1602253345217036288,YouTube,"San Bruno, CA"
+25,2007-11-13,21:43:46,"tweeted: Members of Russia’s mercenary Wagner Group have reportedly been killed following an attack by Ukraine’s armed forces on a hotel where many were based in a town in the Russian-occupied Luhansk region.
+#WagnerGroup #RussiaIsLosing #UkraineWar #UkraineRussiaWar️ #mercenaries https://t.co/vMnzJj9swI",1602253345217036288,YouTube,"San Bruno, CA"
+26,2022-12-12,10:45:11,links: http://ow.ly/3bkC50M0xyM,1602253222307061760,sagaermajithia,United Kingdom
+27,2022-12-12,10:45:11,links: https://twitter.com/ADFmagazine/status/1602253222307061760/photo/1,1602253222307061760,sagaermajithia,United Kingdom
+28,2022-12-12,10:45:11,annotations: Jason Blazakis,1602253222307061760,sagaermajithia,United Kingdom
+29,2022-12-12,10:45:11,annotations: Russia,1602253222307061760,sagaermajithia,United Kingdom
+30,2022-12-12,10:45:11,annotations: Wagner Group,1602253222307061760,sagaermajithia,United Kingdom
+31,2022-12-12,10:45:11,annotations: Africa,1602253222307061760,sagaermajithia,United Kingdom
+32,2022-12-12,10:45:11,mentions: Jason_Blazakis,1602253222307061760,sagaermajithia,United Kingdom
+33,2022-02-06,22:44:53,tweeted: Jason Blazakis @Jason_Blazakis opines: #Russia's Wagner Group is more than mercenaries -- its violence across Africa prove it's a terrorist organization - https://t.co/sRcTzQHxpl https://t.co/MyZLbLXeq2,1602253222307061760,sagaermajithia,United Kingdom
+34,2022-12-12,10:44:36,links: https://www.bbc.com/news/world-europe-63933132,1602253076286652416,khabarwala8,Earth 
+35,2022-12-12,10:44:36,annotations: Russia,1602253076286652416,khabarwala8,Earth 
+36,2022-12-12,10:44:36,annotations: Wagner,1602253076286652416,khabarwala8,Earth 
+37,2022-12-12,10:44:36,annotations: Luhansk,1602253076286652416,khabarwala8,Earth 
+38,2022-12-12,10:44:36,annotations: Ukraine,1602253076286652416,khabarwala8,Earth 
+39,2022-12-12,10:44:36,annotations: Serhiy Haidai,1602253076286652416,khabarwala8,Earth 
+40,2022-12-12,10:44:36,annotations: Kadiivka,1602253076286652416,khabarwala8,Earth 
+41,2022-12-12,10:44:36,annotations: Luhansk,1602253076286652416,khabarwala8,Earth 
+42,2022-06-13,11:21:01,"tweeted: Ukrainian forces have struck a headquarters of Russia’s Wagner mercenary group, says the governor-in-exile of Luhansk in eastern Ukraine. Serhiy Haidai said a hotel where the group met in Kadiivka, Luhansk, had been hit with major losses. https://t.co/l80CHUsqEC",1602253076286652416,khabarwala8,Earth 
+43,2022-12-12,10:36:01,links: https://twitter.com/EU_UNGeneva/status/1602250914299101188/photo/1,1602250914299101188,ADFmagazine,Africa
+44,2022-12-12,10:36:01,annotations: sador Thomas ,1602250914299101188,ADFmagazine,Africa
+45,2022-12-12,10:36:01,annotations: m our ,1602250914299101188,ADFmagazine,Africa
+46,2022-12-12,10:36:01,annotations: n ,1602250914299101188,ADFmagazine,Africa
+47,2022-12-12,10:36:01,mentions: SciencesPo38,1602250914299101188,ADFmagazine,Africa
+48,2015-08-04,09:19:35,tweeted: We were delighted to welcome a student group🧑🏼‍🎓👩🏿‍🎓👨🏾‍🎓 from @SciencesPo38 on Friday - Ambassador Thomas Wagner shared with them our Geneva perspective on the EU 🇪🇺 as a multilateral player. Would you also like to visit our Delegation with your group? Don't hesitate to get in contact! https://t.co/pwBswoBMo8,1602250914299101188,ADFmagazine,Africa
+49,2022-12-12,10:35:09,links: https://tmblr.co/ZH0m4Rd3522E8m00,1602250698481180673,Jason_Blazakis,"Washington, DC"
+50,2022-12-12,10:35:09,annotations: Ukraine,1602250698481180673,Jason_Blazakis,"Washington, DC"
+51,2022-12-12,10:35:09,annotations: Wagner,1602250698481180673,Jason_Blazakis,"Washington, DC"
+52,2022-12-12,10:35:09,annotations: Ukraine,1602250698481180673,Jason_Blazakis,"Washington, DC"
+53,2022-12-12,10:35:09,annotations: Wagner,1602250698481180673,Jason_Blazakis,"Washington, DC"
+54,2017-02-09,23:27:41,"tweeted: Ukraine says it killed Wagner mercenaries, who are they? | Explainer News Ukraine says it killed Wagner mercenaries, who are they? | Explainer News Controversial armed group emerged from being a murky guns-for-hire enterprise to a public... https://t.co/apy0LN7C1Q",1602250698481180673,Jason_Blazakis,"Washington, DC"
+55,2022-12-12,10:33:02,links: https://www.voanews.com/a/latest-developments-in-ukraine-dec-11/6871311.html,1602250164575535104,Chief_Exec_com,United Kingdom
+56,2022-12-12,10:33:02,annotations: Ukraine,1602250164575535104,Chief_Exec_com,United Kingdom
+57,2022-12-12,10:33:02,annotations: Russia,1602250164575535104,Chief_Exec_com,United Kingdom
+58,2022-12-12,10:33:02,annotations: Wagner,1602250164575535104,Chief_Exec_com,United Kingdom
+59,2022-12-12,10:33:02,annotations: Wagnergroup,1602250164575535104,Chief_Exec_com,United Kingdom
+60,2022-12-12,10:33:02,annotations: WagnerGroupHUNT,1602250164575535104,Chief_Exec_com,United Kingdom
+61,2016-09-10,17:43:06,"tweeted: https://t.co/sN1NEgW5q2 5:05 p.m.: A senior official in eastern Ukraine said on Sunday that Ukrainian forces had attacked a hotel where members of Russia's private Wagner military group were based, killing many of them.
+
+#Wagnergroup #WagnerGroupHUNT #grouphunt",1602250164575535104,Chief_Exec_com,United Kingdom
